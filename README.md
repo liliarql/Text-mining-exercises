@@ -1,5 +1,4 @@
 # Text-mining-exercises
-# Text-mining-exercises
 
 ## EJERCICIO 1
 
